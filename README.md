@@ -17,8 +17,8 @@ This app allows you to add, view, edit, remove, mark, and clear tasks, with pers
 - No external libraries required
 
 ## How to Run
-- git clone https://github.com/your-username/todo-app.git
-- cd todo-app
+- git clone https://github.com/Kiran-sai-99/todo-list-python.git
+- cd todo-list-python
 - *after that*  python todo.py->press enter
 
 ## Output Window Examples:
