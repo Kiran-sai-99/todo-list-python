@@ -1,4 +1,4 @@
-# ✅ Simple To-Do List (Python CLI)
+# Simple To-Do List (Python CLI)
 
 A lightweight console-based To-Do List manager written in "pure Python".  
 This app allows you to add, view, edit, remove, mark, and clear tasks, with persistent storage in a text file ('tasks.txt').
